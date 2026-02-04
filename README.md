@@ -1,5 +1,4 @@
 ## Hi there 👋
-![kitahash GitHub stats](https://github-readme-stats.vercel.app/api?username=kitahash&show_icons=true)
 <!--
 **kitahash/kitahash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
